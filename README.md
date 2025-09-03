@@ -1,2 +1,2 @@
 # Delta-btach
-the is the delta batch repo
+the is the delta batch repo.
